@@ -5,4 +5,4 @@ The only file in this implementation is the "source.cpp" file. It functions by d
 
 The result of the source.cpp render sends the image data to an external file, called "535RayTrace.ppm", that allows viewing of the rendered image. The resulting render of the current configuration can be seen below:
 
-![535RayTrace.ppm](https://imgur.com/V1x8MRD)
+![Ray Trace Render](535RayTrace.png)
